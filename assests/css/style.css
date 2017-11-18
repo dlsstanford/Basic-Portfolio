@@ -1,0 +1,46 @@
+
+body {
+	background-image: url(adriel-kloppenburg-14824.jpg);
+	background-size: 100%;
+}
+
+h1 {
+	font-size: 28px;
+
+	font-family: Georgia, serif;
+}
+
+container {
+	text-align: center;
+	width: 50%;
+	padding: 30px;
+	color: #333;
+	background: rgb(153, 14, 14);
+}
+
+#middle {
+    position: relative;
+	align-content: center;
+	height: 200px;
+	padding: 20px;
+	color: #333;
+	background: #eee;
+	float: left;
+}
+
+#right {
+    position: absolute;
+	align-content: center;
+	height: 100px;
+	width: 450px;
+	padding: 10px;
+	color: #333;
+	background: #ddd;
+	float: left;
+}
+
+p {
+	text-align: center;
+    padding: 50px;
+	font-size: 25px;
+}
